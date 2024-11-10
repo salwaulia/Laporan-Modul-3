@@ -1,0 +1,39 @@
+/* Mengatur gaya umum untuk body */
+body {
+    background-color: #f0f0f0; /* Warna latar belakang halaman */
+    font-family: Arial, sans-serif; /* Jenis font yang digunakan */
+    margin: 0; /* Menghilangkan margin default */
+    padding: 20px; /* Memberikan padding di sekeliling konten */
+}
+
+/* Mengatur gaya untuk elemen main */
+main {
+    max-width: 800px; /* Lebar maksimum konten */
+    margin: auto; /* Memusatkan konten di tengah halaman */
+    background-color: #ffffff; /* Warna latar belakang konten */
+    border-radius: 8px; /* Membuat sudut kotak menjadi melengkung */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Menambahkan bayangan halus */
+    padding: 20px; /* Memberikan ruang di dalam konten */
+}
+
+
+.title {
+    color: #333333; 
+    text-align: center; 
+}
+
+
+p {
+    color: #555555;
+    line-height: 1.6; 
+}
+
+
+h2 {
+    color: #007BFF; 
+}
+
+ul {
+    list-style-type: disc; 
+    padding-left: 20px; 
+}
